@@ -6,14 +6,14 @@ This repository contains practical and easy-to-understand implementations of com
 
 The main purpose of this repository is to demonstrate how design patterns can be applied in real-world scenarios to write cleaner, more reusable, and more maintainable code.
 
----
+
 
 ## 📌 What Are Design Patterns?
 
 Design patterns are reusable solutions to common problems in software design.  
 They represent best practices used by experienced developers and help structure code efficiently.
 
----
+
 
 ## 🧩 Patterns Included
 
@@ -25,7 +25,7 @@ This repository includes examples of different types of design patterns, such as
 
 Each pattern is implemented using simple Python examples.
 
----
+
 
 ## 🧠 Decorator Pattern Example
 
@@ -42,4 +42,4 @@ In this example, a decorator is used to measure the execution time of different 
 - Code reusability
 - Execution time measurement
 
----
+
