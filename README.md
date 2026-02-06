@@ -98,13 +98,3 @@ In this example, a subject emits an event, and multiple observers handle it inde
  - Cache invalidation
 
  - Background and asynchronous tasks
-
-### 🔹 Concepts Covered
-
- - Behavioral design patterns
-
- - Event subscription and notification
-
- - Separation of concerns
-
- - Observer registration and management
