@@ -64,3 +64,47 @@ In this example, a `ComputerBuilder` class is used to build different types of `
 - Method chaining
 - Separation of concerns
 - Clean object construction
+
+# 👀 Observer Pattern Example
+
+This repository also includes an implementation of the Observer Design Pattern, which is a behavioral design pattern.
+
+
+### 🔹 Description
+
+The Observer Pattern defines a one-to-many relationship between objects.
+When the state of a subject (the Publisher) changes, all registered observers are automatically notified and updated.
+
+This pattern is commonly used when multiple components need to react to the same event without tightly coupling their logic to the event source.
+
+In this example, a subject emits an event, and multiple observers handle it independently, such as logging actions or sending notifications.
+
+### 🔹 Why Use the Observer Pattern?
+
+ - Promotes loose coupling between components
+
+ - Makes the system easier to extend and maintain
+
+ - Supports the Open/Closed Principle
+
+ - Encourages clean, event-driven design
+
+### 🔹 Common Backend Use Cases
+
+ - Sending notifications (Email, SMS, Push)
+
+ - Event-driven systems
+
+ - Cache invalidation
+
+ - Background and asynchronous tasks
+
+### 🔹 Concepts Covered
+
+ - Behavioral design patterns
+
+ - Event subscription and notification
+
+ - Separation of concerns
+
+ - Observer registration and management
